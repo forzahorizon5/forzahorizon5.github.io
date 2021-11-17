@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+body {
+    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    font-family: 'Francois One', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    color: white;
+    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    list-style-type: none;
+}
+h2{
+    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 2em;
+}
+a{
+    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    text-decoration: none;
+    color: white;
+}
+/* ********** ACCUEIL ********** */
+h2{
+    background-color: yellow;
+    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    font-family: Blippo, fantasy;
+    text-align: center;
+    color:white;
+    font-size: 4em;
+    text-shadow: 1px 3px 2px red;
+}
+h3{
+font-size: 50px;
+}

@@ -1,29 +1,29 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
 
 body {
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     font-family: 'Shippori Antique', sans-serif;
     padding: 0;
     margin: 0;
 }
 ul{
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     margin: 0;
     padding: 0;
 }
 li{
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     list-style-type: none;
 }
 h2{
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     text-transform: uppercase;
     text-align: center;
     padding-top: 30px;
     font-size: 2em;
 }
 a{
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     text-decoration: none;
     color: white;
 }
@@ -33,13 +33,13 @@ a{
     text-align: center;
     padding-bottom: 20px;
     padding-top: 10px;
-    background: url(media/FH52.jpg) no-repeat fixed 50% 50%;
+    background: url(FH52.jpg) no-repeat fixed 50% 50%;
     background-size: cover;
     height: 799px;
 }
 h3{
     background-color: yellow;
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     font-family: Blippo, fantasy;
     text-align: center;
     color:white;
@@ -48,14 +48,14 @@ h3{
 }
 #textIntro
 h2{
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     color: white;
     font-family: Blippo, fantasy;
     font-size: 3em;
     text-shadow: 1px 3px 2px chartreuse;
 }
 p{
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     color: white;
     text-align: center;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -64,7 +64,7 @@ p{
 }
 /* ****** PRESENTATION ****** */
 #presentation{
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     background-color: white;
     padding: 10px 0px 100px 0px
 }
@@ -75,7 +75,7 @@ p{
     padding: 30px 10%;
 
 
-    background: url(media/geometric.jpg) no-repeat fixed 50% 50%;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
     color: white;
 }    
 #infos

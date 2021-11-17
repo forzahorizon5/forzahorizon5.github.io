@@ -5,25 +5,44 @@ body {
     padding: 0;
     margin: 0;
 }
-
 img{
     border-radius: 15px;
     margin: -50px 0px 0px 10%;
     box-shadow: 5px 8px 5px 4px rgba(255,255,255,0.50);
 }
-
 img:hover{
     opacity: 1;
     transform: scale(1.05);
     transition: 0.8s ease;
 }
-
+ul{
+    color: white;
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
+    margin: 0;
+    padding: 0;
+}
+h3{
+    padding: 0px 0px 2% 0px;
+    color: white;
+    list-style-type: none;
+}
+li{
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
+    list-style-type: none;
+}
+h2{
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 2em;
+}
 a{
     background: url(geometric.jpg) no-repeat fixed 50% 50%;
     text-decoration: none;
     color: white;
 }
-
+/* ********** ACCUEIL ********** */
 h3{
     background-color: yellow;
     background: url(geometric.jpg) no-repeat fixed 50% 50%;
@@ -32,7 +51,4 @@ h3{
     color:white;
     font-size: 3em;
     text-shadow: 1px 3px 2px red;
-    padding: 0px 0px 2% 0px;
-    color: white;
-    list-style-type: none;
 }

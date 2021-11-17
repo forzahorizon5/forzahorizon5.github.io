@@ -1,30 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300&display=swap');
+
 body {
     background: url(geometric.jpg) no-repeat fixed 50% 50%;
-    font-family: 'Francois One', sans-serif;
+    font-family: 'Shippori Antique', sans-serif;
     padding: 0;
     margin: 0;
 }
-img{
-    border-radius: 15px;
-    margin: -50px 0px 0px 10%;
-    box-shadow: 5px 8px 5px 4px rgba(255,255,255,0.50);
-}
-img:hover{
-    opacity: 1;
-    transform: scale(1.05);
-    transition: 0.8s ease;
-}
 ul{
-    color: white;
     background: url(geometric.jpg) no-repeat fixed 50% 50%;
     margin: 0;
     padding: 0;
-}
-h3{
-    padding: 0px 0px 2% 0px;
-    color: white;
-    list-style-type: none;
 }
 li{
     background: url(geometric.jpg) no-repeat fixed 50% 50%;
@@ -42,13 +27,81 @@ a{
     text-decoration: none;
     color: white;
 }
-/* ********** ACCUEIL ********** */
+/* ********** IMAGE PRINCIPALE ********** */
+#premierTrait{
+    
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    background: url(FH52.jpg) no-repeat fixed 50% 50%;
+    background-size: cover;
+    height: 799px;
+}
 h3{
     background-color: yellow;
     background: url(geometric.jpg) no-repeat fixed 50% 50%;
     font-family: Blippo, fantasy;
     text-align: center;
     color:white;
-    font-size: 3em;
+    font-size: 6em;
     text-shadow: 1px 3px 2px red;
+}
+#textIntro
+h2{
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
+    color: white;
+    font-family: Blippo, fantasy;
+    font-size: 3em;
+    text-shadow: 1px 3px 2px chartreuse;
+}
+p{
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
+    color: white;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 125%;
+    
+}
+/* ****** PRESENTATION ****** */
+#presentation{
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
+    background-color: white;
+    padding: 10px 0px 100px 0px
+}
+#prestations{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 30px 10%;
+
+
+    background: url(geometric.jpg) no-repeat fixed 50% 50%;
+    color: white;
+}    
+#infos
+h2{
+    color: white;
+}
+.imagesPrestations p{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 1.8em;
+    margin: 9px;
+    font-weight: 300; 
+}
+.imagesPrestations h4{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    font-size: 1.8em;
+    margin: 9px;
+    font-weight: 300;
+}
+.imagesPrestations img{
+    border-radius: 10px;
+    box-shadow: 5px 8px 5px 4px rgba(255,255,255,0.50);
+}
+.imagesPrestations img:hover{
+    opacity: 0.5;
+    transform: scale(1.05);
+    transition: 0.8s ease;
 }
